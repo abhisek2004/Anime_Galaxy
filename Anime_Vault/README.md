@@ -2,14 +2,14 @@
 
 # Anime Vault – Your favorite anime, all in one place.
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github\&color=black\&scale=1.01)](https://github.com/sanidhyy)
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/anime-vault)](https://github.com/sanidhyy/anime-vault/blob/main/LICENSE)
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes)](https://github.com/sanidhyy/anime-vault/commits/main)
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/anime-vault)](https://github.com/sanidhyy/anime-vault/branches)
-[![GitHub commits](https://flat.badgen.net/github/commits/sanidhyy/anime-vault)](https://github.com/sanidhyy/anime-vault/commits)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/98200064-601d-4ca4-98ab-675eb592139a/deploy-status)](https://animee-vault.netlify.app/)
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/anime-vault)](https://github.com/sanidhyy/anime-vault/issues)
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/anime-vault)](https://github.com/sanidhyy/anime-vault/pulls)
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/abhisek2004)
+[![GitHub license](https://flat.badgen.net/github/license/abhisek2004/Anime_Galaxy)](https://github.com/abhisek2004/Anime_Galaxy/blob/main/LICENSE)
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes)](https://github.com/abhisek2004/Anime_Galaxy/commits/main)
+[![GitHub branches](https://flat.badgen.net/github/branches/abhisek2004/Anime_Galaxy)](https://github.com/abhisek2004/Anime_Galaxy/branches)
+[![GitHub commits](https://flat.badgen.net/github/commits/abhisek2004/Anime_Galaxy)](https://github.com/abhisek2004/Anime_Galaxy/commits)
+[![GitHub issues](https://flat.badgen.net/github/issues/abhisek2004/Anime_Galaxy)](https://github.com/abhisek2004/Anime_Galaxy/issues)
+[![GitHub pull requests](https://flat.badgen.net/github/prs/abhisek2004/Anime_Galaxy)](https://github.com/abhisek2004/Anime_Galaxy/pulls)
+
 
 ---
 
