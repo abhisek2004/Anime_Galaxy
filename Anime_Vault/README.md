@@ -15,17 +15,17 @@
 
 ## 📘 Table of Contents
 
-* [Folder Structure](#folder-structure)
-* [Getting Started](#getting-started)
-* [Screenshots](#screenshots)
-* [Tech Stack](#tech-stack)
-* [Stats](#stats)
-* [Contribute](#contribute)
-* [Acknowledgements](#acknowledgements)
-* [Buy Me a Coffee](#buy-me-a-coffee)
-* [Follow Me](#follow-me)
-* [Give a Star](#give-a-star)
-* [Star History](#star-history)
+- [Folder Structure](#folder-structure)
+- [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Stats](#stats)
+- [Contribute](#contribute)
+- [Acknowledgements](#acknowledgements)
+- [Buy Me a Coffee](#buy-me-a-coffee)
+- [Follow Me](#follow-me)
+- [Give a Star](#give-a-star)
+- [Star History](#star-history)
 
 ---
 
@@ -57,7 +57,7 @@ anime-vault/
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/sanidhyy/anime-vault.git
+git clone https://github.com/abhisek2004/Anime_Galaxy.git
 ```
 
 3. Install dependencies:
@@ -74,9 +74,9 @@ npm run dev
 
 ### 📚 Additional Resources
 
-* **Next.js Docs** – [https://nextjs.org/docs](https://nextjs.org/docs)
-* **Shikimori API** – [https://shikimori.one/api/doc](https://shikimori.one/api/doc)
-* **Framer Motion** – [https://www.framer.com/motion](https://www.framer.com/motion)
+- **Next.js Docs** – [https://nextjs.org/docs](https://nextjs.org/docs)
+- **Shikimori API** – [https://shikimori.one/api/doc](https://shikimori.one/api/doc)
+- **Framer Motion** – [https://www.framer.com/motion](https://www.framer.com/motion)
 
 ---
 
@@ -114,11 +114,12 @@ Make sure your code follows the community guidelines and linting rules.
 
 Libraries used:
 
-* [React Intersection Observer](https://react-intersection-observer.vercel.app/)
-* [Prettier](https://prettier.io)
-* [ESLint](https://eslint.org)
+- [React Intersection Observer](https://react-intersection-observer.vercel.app/)
+- [Prettier](https://prettier.io)
+- [ESLint](https://eslint.org)
 
 ---
+
 ## 🚀 Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social)](https://github.com/abhisek2004)
